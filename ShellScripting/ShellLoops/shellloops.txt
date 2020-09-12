@@ -1,0 +1,22 @@
+	__________________________________SHELL LOOPS______________________________________
+
+
+
+
+
+
+
+ LOOPS:
+	 __________________
+	|* THE WHILE LOOP  |
+	|* THE FOR LOOP    |
+	|* THE UNTIL LOOP  |
+	|* THE NESTED LOOPS|
+	|* LOOP CONTROLS   |
+	 ------------------
+
+	
+	 	
+
+
+

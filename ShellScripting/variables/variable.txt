@@ -1,0 +1,5 @@
+
+#!/bin/zsh
+
+NAME="Vishal" #scale variable
+echo $NAME
